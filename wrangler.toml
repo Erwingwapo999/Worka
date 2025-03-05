@@ -7,7 +7,7 @@ workers_dev = true
 pattern = "sgw1.crazikid.space"
 custom_domain = true
 [[routes]]
-pattern = "tmperya.com.sgw1.crazikid.space"
+pattern = "www.speedtest.net.sgw1.crazikid.space"
 custom_domain = true
 
 [vars]
