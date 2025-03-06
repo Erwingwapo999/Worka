@@ -9,6 +9,12 @@ custom_domain = true
 [[routes]]
 pattern = "www.speedtest.net.sgw1.crazikid.space"
 custom_domain = true
+[[routes]]
+pattern = "www.globe.com.ph.sgw1.crazikid.space"
+custom_domain = true
+[[routes]]
+pattern = "homebrew.globe.com.ph.sgw1.crazikid.space"
+custom_domain = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
